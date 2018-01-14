@@ -6,3 +6,4 @@ word
 first
 second
 dev
+master
